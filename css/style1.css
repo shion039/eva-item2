@@ -1,0 +1,53 @@
+
+
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 3em;
+    background-size: cover;
+    margin:0;
+    padding: 0;
+    height: 100%;
+
+}
+.img-1{
+    background-image: url(../img/todos12.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.navbar .navbar-brand{
+    color: #fafafa;
+}
+.navbar-nav .nav-link{
+    color: #fafafa;
+    
+}
+.card-1{
+    background-color: transparent;
+    font-family:'Times New Roman', Times, serif;
+    color: #fafafa;
+}
+.card-1 h1{
+    font-size: 5em;
+    width: 100%;
+}
+.card-1 p{
+    font-size: 3em;
+}
+.card-1 h2{
+    font-size: 3em;
+    width: 100%;
+    color: rgb(255, 255, 255);
+}
+.card-2{
+    background-color:black;
+    font-family:'Times New Roman', Times, serif;
+    color: #fafafa;
+}
+.carousel-caption h5{
+    text-shadow: 3px 3px 6px rgba(8, 1, 35, 0.019);
+}
+.carousel-caption p{
+    text-shadow: 3px 3px 6px rgba(0, 0, 2, 0.5);
+}
